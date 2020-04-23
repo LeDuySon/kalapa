@@ -1,0 +1,66 @@
+province,count,vung,mien
+Thành phố Hồ Chí Minh,2389,DNB,N
+Tỉnh Đồng Nai,1033,DNB,N
+Tỉnh Bình Dương,807,DNB,N
+Thành phố Hà Nội,667,DBSH,B
+Tỉnh Tiền Giang,641,TNB,N
+Tỉnh An Giang,608,TNB,N
+Tỉnh Long An,549,TNB,N
+Tỉnh Thanh Hóa,538,BTB,T
+Tỉnh Kiên Giang,508,TNB,N
+Tỉnh Nghệ An,414,BTB,T
+Tỉnh Quảng Nam,375,DHNTB,T
+Tỉnh Đồng Tháp,358,TNB,N
+Tỉnh Bến Tre,333,TNB,N
+Tỉnh Tây Ninh,330,DNB,N
+Tỉnh Bình Định,312,DHNTB,T
+Tỉnh Vĩnh Long,309,TNB,N
+Tỉnh Khánh Hòa,308,DHNTB,T
+Tỉnh Bà Rịa - Vũng Tàu,306,DNB,N
+Tỉnh Sóc Trăng,300,TNB,N
+Tỉnh Cà Mau,294,TNB,N
+Tỉnh Đắk Lắk,289,TN,T
+Tỉnh Bình Thuận,287,DHNTB,T
+Tỉnh Trà Vinh,283,TNB,N
+Thành phố Hải Phòng,252,DBSH,B
+Tỉnh Bạc Liêu,238,TNB,N
+Thành phố Đà Nẵng,228,DHNTB,T
+Tỉnh Bắc Giang,212,DBB,B
+Tỉnh Thừa Thiên Huế,199,BTB,T
+Thành phố Cần Thơ,192,TNB,N
+Tỉnh Quảng Ngãi,184,DHNTB,T
+Tỉnh Bình Phước,177,DNB,N
+Tỉnh Quảng Ninh,177,DBB,B
+Tỉnh Hà Tĩnh,162,BTB,T
+Tỉnh Hậu Giang,160,TNB,N
+Tỉnh Phú Yên,160,DHNTB,T
+Tỉnh Phú Thọ,158,DBB,B
+Tỉnh Nam Định,148,DBSH,B
+Tỉnh Thái Nguyên,142,DBB,B
+Tỉnh Thái Bình,141,DBSH,B
+Tỉnh Bắc Ninh,130,DBSH,B
+Tỉnh Ninh Bình,128,DBSH,B
+Tỉnh Lâm Đồng,126,TN,T
+Tỉnh Hải Dương,121,DBSH,B
+Tỉnh Hưng Yên,115,DBSH,B
+Tỉnh Ninh Thuận,111,DHNTB,T
+Tỉnh Gia Lai,109,TN,T
+Tỉnh Hà Nam,107,DBSH,B
+Tỉnh Vĩnh Phúc,105,DBSH,B
+Tỉnh Quảng Bình,102,BTB,T
+Tỉnh Quảng Trị,96,BTB,T
+Tỉnh Tuyên Quang,83,DBB,B
+Tỉnh Hoà Bình,79,TBB,B
+Tỉnh Sơn La,77,TBB,B
+Tỉnh Lạng Sơn,73,DBB,B
+Tỉnh Yên Bái,72,TBB,B
+Tỉnh Lào Cai,62,TBB,B
+Tỉnh Đắk Nông,58,TN,T
+Tỉnh Cao Bằng,46,DBB,B
+Tỉnh Điện Biên,45,TBB,B
+Tỉnh Bắc Kạn,38,DBB,B
+Tỉnh Kon Tum,34,TN,T
+Tỉnh Hà Giang,31,DBB,B
+Tỉnh Hòa Bình,30,TBB,B
+Tỉnh Lai Châu,19,TBB,B
+Tỉnh Vĩnh phúc,17,DBSH,B
